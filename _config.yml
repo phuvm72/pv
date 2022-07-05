@@ -28,7 +28,7 @@ url: "https://pvm.github.io" # the base hostname & protocol for your site, e.g. 
 github_username:  phuvuong72
 
 # Build settings
-theme: minima
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
